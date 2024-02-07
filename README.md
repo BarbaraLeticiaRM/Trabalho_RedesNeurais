@@ -2,7 +2,7 @@
 
 Código original disponível em https://github.com/ShunLu91/DU-DARTS
 
-As versões do Python e PyTorch utilizadas são, respectivamente, 3.7 e 1.7.
+As versões do Python e PyTorch utilizadas são, respectivamente, 3.7.10 e 1.7.1.
 
 Dentro da pasta **DU-DARTS** a pasta **dataset** contém o dataset com as imagens utilizadas. Além disso, há também a pasta **log** que contém os modelos gerados e utilizados nos notebooks.
 
