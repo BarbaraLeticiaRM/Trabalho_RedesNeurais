@@ -1,6 +1,6 @@
 # Trabalho_RedesNeurais
 
-Código original disponível em https://github.com/ShunLu91/DU-DARTS
+Código original disponível em [DU-DARTS](https://github.com/ShunLu91/DU-DARTS)
 
 As versões do Python e PyTorch utilizadas são, respectivamente, 3.7.10 e 1.7.1.
 
